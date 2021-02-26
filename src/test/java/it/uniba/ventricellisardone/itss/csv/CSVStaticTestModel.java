@@ -1,0 +1,71 @@
+package it.uniba.ventricellisardone.itss.csv;
+
+import java.util.HashMap;
+import java.util.Map;
+
+public class CSVStaticTestModel {
+    protected static Map<String, Map<String, Integer>> getTestMap() {
+        Map<String, Map<String, Integer>> map = new HashMap<>();
+        Map<String, Integer> innerMap = new HashMap<>();
+        innerMap.put("Celeste", 1);
+        innerMap.put("Blu", 2);
+        innerMap.put("Bianco", 2);
+        innerMap.put("Verde muschio", 1);
+        innerMap.put("Bluette", 1);
+        innerMap.put("Panna", 1);
+        innerMap.put("Blu scuro", 2);
+        innerMap.put("Verde acido", 1);
+        innerMap.put("Testa di moro", 2);
+        innerMap.put("Beige", 1);
+        innerMap.put("Azzurro", 1);
+        innerMap.put("Blu notte", 1);
+        innerMap.put("Blu medio", 4);
+        map.put("Colore", innerMap);
+        innerMap = new HashMap<>();
+        innerMap.put("IT", 11);
+        innerMap.put("FR", 2);
+        innerMap.put("GB", 2);
+        innerMap.put("RU", 1);
+        innerMap.put("DE", 2);
+        innerMap.put("ES", 1);
+        innerMap.put("LU", 1);
+        map.put("CodStatoFattura", innerMap);
+        innerMap = new HashMap<>();
+        innerMap.put("FRECCE TRICOLORI", 2);
+        innerMap.put("AERONAUTICA MILITARE", 8);
+        innerMap.put("FIX DESIGN", 3);
+        innerMap.put("FAY", 3);
+        innerMap.put("DIADORA", 1);
+        innerMap.put("HOGAN", 2);
+        innerMap.put("SANTONI", 1);
+        map.put("NomeBrand", innerMap);
+        innerMap = new HashMap<>();
+        innerMap.put("Primavera - Estate 2011", 5);
+        innerMap.put("Autunno - Inverno 2011", 5);
+        innerMap.put("Primavera - Estate 2012", 5);
+        innerMap.put("Autunno - Inverno 2012", 5);
+        map.put("Collezione", innerMap);
+        innerMap = new HashMap<>();
+        innerMap.put("PayPal", 6);
+        innerMap.put("Contrassegno", 5);
+        innerMap.put("Carta di Credito", 9);
+        map.put("PagamentoOrdine", innerMap);
+        innerMap = new HashMap<>();
+        innerMap.put("Orologi", 1);
+        innerMap.put("Maglieria", 10);
+        innerMap.put("Shopper", 4);
+        innerMap.put("Sneakers", 1);
+        innerMap.put("Capispalla", 2);
+        innerMap.put("Polacco", 1);
+        innerMap.put("Cappelli", 1);
+        map.put("NomeCategoria", innerMap);
+        innerMap = new HashMap<>();
+        innerMap.put("Gioielli Moda", 1);
+        innerMap.put("Abbigliamento", 12);
+        innerMap.put("Borse", 4);
+        innerMap.put("Calzature", 2);
+        innerMap.put("Accessori", 1);
+        map.put("MacroCategoria", innerMap);
+        return map;
+    }
+}

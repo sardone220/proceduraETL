@@ -1,0 +1,21 @@
+IdOrdine;ErroreHeader;CodStatoFattura;SexAcquirente;Quantita;PrezzoPagato;Sconto;Outlet;NomeBrand;Collezione;Colore;SexArticolo;PagamentoOrdine;ValoreTagliaEffettivo;NomeCategoria;MacroCategoria
+11;07/09/10;IT;M;1;89;0;0;FRECCE TRICOLORI;Primavera - Estate 2011;Celeste;Uomo;PayPal;UNICA;Orologi;Gioielli Moda
+11;07/09/10;IT;M;1;62;50;1;AERONAUTICA MILITARE;Primavera - Estate 2011;Blu medio;Uomo;PayPal;L;Maglieria;Abbigliamento
+15;07/09/10;IT;F;1;49;50;1;AERONAUTICA MILITARE;Primavera - Estate 2011;Blu;Uomo;Contrassegno;XL;Maglieria;Abbigliamento
+16;07/09/10;IT;M;1;62;50;1;AERONAUTICA MILITARE;Primavera - Estate 2011;Blu medio;Uomo;PayPal;XL;Maglieria;Abbigliamento
+16;07/09/10;IT;M;1;62;50;1;AERONAUTICA MILITARE;Primavera - Estate 2011;Bianco;Uomo;PayPal;S;Maglieria;Abbigliamento
+46;10/09/10;IT;F;1;60;50;1;FIX DESIGN;Autunno - Inverno 2011;Bianco;Donna;Carta di Credito;M;Maglieria;Abbigliamento
+46;10/09/10;IT;F;1;325;50;0;FAY;Autunno - Inverno 2011;Verde muschio;Donna;Carta di Credito;UNICA;Shopper;Borse
+46;10/09/10;FR;F;1;65;50;1;FIX DESIGN;Autunno - Inverno 2011;Bluette;Donna;Carta di Credito;L;Maglieria;Abbigliamento
+46;10/09/10;GB;F;1;43;50;1;FIX DESIGN;Autunno - Inverno 2011;Panna;Donna;Carta di Credito;S;Maglieria;Abbigliamento
+48;12/09/10;RU;M;1;65;50;1;DIADORA;Autunno - Inverno 2011;Blu scuro;Uomo;Contrassegno;41;Sneakers;Calzature
+50;14/09/10;DE;M;1;275;50;0;FAY;Primavera - Estate 2012;Verde acido;Donna;Carta di Credito;UNICA;Shopper;Borse
+51;15/09/10;IT;M;1;107;50;1;AERONAUTICA MILITARE;Primavera - Estate 2012;Blu medio;Uomo;PayPal;46;Capispalla;Abbigliamento
+67;16/09/10;ES;F;1;195;50;0;HOGAN;Primavera - Estate 2012;Testa di moro;Donna;Contrassegno;UNICA;Shopper;Borse
+68;16/09/10;IT;M;1;143;50;1;SANTONI;Primavera - Estate 2012;Beige;Uomo;Contrassegno;7.5;Polacco;Calzature
+72;16/09/10;IT;M;1;13;50;0;FRECCE TRICOLORI;Primavera - Estate 2012;Azzurro;Uomo;Carta di Credito;UNICA;Cappelli;Accessori
+79;20/09/10;IT;M;1;95;50;1;AERONAUTICA MILITARE;Autunno - Inverno 2012;Blu notte;Uomo;Carta di Credito;S;Maglieria;Abbigliamento
+82;21/09/10;LU;M;1;77;50;1;AERONAUTICA MILITARE;Autunno - Inverno 2012;Blu;Uomo;PayPal;S;Maglieria;Abbigliamento
+88;23/09/10;GB;F;1;195;50;0;HOGAN;Autunno - Inverno 2012;Testa di moro;Donna;Carta di Credito;UNICA;Shopper;Borse
+89;23/09/10;FR;F;1;145;50;1;FAY;Autunno - Inverno 2012;Blu scuro;Kids Girl;Carta di Credito;4;Capispalla;Abbigliamento
+90;24/09/10;DE;F;1;48;50;1;AERONAUTICA MILITARE;Autunno - Inverno 2012;Blu medio;Kids Boy;Contrassegno;6;Maglieria;Abbigliamento

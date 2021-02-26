@@ -1,0 +1,5 @@
+IdOrdine;DataOrdine;CodStatoFattura;SexAcquirente;Quantita;PrezzoPagato;Sconto;Outlet;NomeBrand;Collezione;Colore;SexArticolo;PagamentoOrdine;ValoreTagliaEffettivo;NomeCategoria;MacroCategoria
+1231;06/07/11;DE;F;1;130;50;1;ETRO;Primavera - Estate 2011;Multicolor;Donna;PayPal;42;Topwear;Abbigliamento
+1231;06/07/11;DE;F;1;265;50;1;ETRO;Primavera - Estate 2011;Fantasia;Donna;PayPal;42;Abiti;Abbigliamento
+1231;06/07/11;DE;F;1;63;50;1;ALTEA;Primavera - Estate 2011;Fantasia;Donna;PayPal;S;Polo;Abbigliamento
+1232;07/07/11;IT;M;1;46;60;1;BURBERRY;Primavera - Estate 2011;Blu;Uomo;PayPal;S;Polo;Abbigliamento

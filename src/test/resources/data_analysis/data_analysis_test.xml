@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data type="test">
+    <category key="Colore">
+        <entry key="Verde muschio" value="1"/>
+        <entry key="Verde acido" value="1"/>
+        <entry key="Panna" value="1"/>
+        <entry key="Azzurro" value="1"/>
+        <entry key="Blu" value="2"/>
+        <entry key="Bluette" value="1"/>
+        <entry key="Testa di moro" value="2"/>
+        <entry key="Celeste" value="1"/>
+        <entry key="Bianco" value="2"/>
+        <entry key="Beige" value="1"/>
+        <entry key="Blu notte" value="1"/>
+        <entry key="Blu scuro" value="2"/>
+        <entry key="Blu medio" value="4"/>
+    </category>
+    <category key="MacroCategoria">
+        <entry key="Abbigliamento" value="12"/>
+        <entry key="Borse" value="4"/>
+        <entry key="Calzature" value="2"/>
+        <entry key="Accessori" value="1"/>
+        <entry key="Gioielli Moda" value="1"/>
+    </category>
+    <category key="PagamentoOrdine">
+        <entry key="PayPal" value="6"/>
+        <entry key="Carta di Credito" value="9"/>
+        <entry key="Contrassegno" value="5"/>
+    </category>
+    <category key="Collezione">
+        <entry key="Primavera - Estate 2011" value="5"/>
+        <entry key="Primavera - Estate 2012" value="5"/>
+        <entry key="Autunno - Inverno 2012" value="5"/>
+        <entry key="Autunno - Inverno 2011" value="5"/>
+    </category>
+    <category key="NomeCategoria">
+        <entry key="Polacco" value="1"/>
+        <entry key="Cappelli" value="1"/>
+        <entry key="Orologi" value="1"/>
+        <entry key="Sneakers" value="1"/>
+        <entry key="Shopper" value="4"/>
+        <entry key="Capispalla" value="2"/>
+        <entry key="Maglieria" value="10"/>
+    </category>
+    <category key="NomeBrand">
+        <entry key="AERONAUTICA MILITARE" value="8"/>
+        <entry key="SANTONI" value="1"/>
+        <entry key="HOGAN" value="2"/>
+        <entry key="FRECCE TRICOLORI" value="2"/>
+        <entry key="DIADORA" value="1"/>
+        <entry key="FIX DESIGN" value="3"/>
+        <entry key="FAY" value="3"/>
+    </category>
+    <category key="CodStatoFattura">
+        <entry key="DE" value="2"/>
+        <entry key="RU" value="1"/>
+        <entry key="LU" value="1"/>
+        <entry key="IT" value="11"/>
+        <entry key="GB" value="2"/>
+        <entry key="FR" value="2"/>
+        <entry key="ES" value="1"/>
+    </category>
+</data>
